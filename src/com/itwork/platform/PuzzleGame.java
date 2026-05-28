@@ -14,7 +14,8 @@ import java.util.Random;
  * 实现4x4拼图游戏的核心逻辑，游戏结束后自动保存成绩到DataService
  *
  * @author 李阔
- * @version 1.0
+ * @version 1.1
+ * @changelog v1.1: 新增难度选择功能，优化界面布局
  */
 public class PuzzleGame extends JFrame implements KeyListener, ActionListener {
 
