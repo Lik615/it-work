@@ -11,7 +11,8 @@ import java.util.Comparator;
  * 被PuzzleGame.java调用，实现游戏数据持久化管理
  *
  * @author 张子妍
- * @version 1.0
+ * @version 1.1
+ * @changelog v1.1: 新增玩家历史查询功能，优化数据统计展示
  */
 public class DataService {
 
